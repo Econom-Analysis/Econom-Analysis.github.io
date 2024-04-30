@@ -1,5 +1,5 @@
-# Econom-Analysis.github.io
-网站： https://nndl.github.io
+# 计量经济分析
+网站： https://Econom-Analysis.github.io
 
 2020-03-31更新说明：
 
